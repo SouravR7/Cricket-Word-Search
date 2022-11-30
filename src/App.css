@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+.app-conatiner {
+}
+
+.name-dropdown {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.puzzle-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+}
+
+.grid-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.letter-grid {
+  padding-bottom: 20px;
+}
+
+.yellowC {
+  background-color: yellow;
+  color: #000;
+}
